@@ -944,6 +944,7 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 .lx-contact-field{
 	position:relative;
 	margin-bottom:20px;
+	border:1px dotted #FEA3EF;
 }
 .lx-contact-field span{
 	position:absolute;
