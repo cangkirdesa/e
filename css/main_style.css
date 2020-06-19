@@ -973,7 +973,6 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 	width:100%;
 	padding:15px;
 	padding-left:60px;
-	margin-top:50px;
 	font-size:15px;
 	background:#FBFBFB;
 	-webkit-transition: all 0.3s;
@@ -1001,6 +1000,7 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 }
 .lx-contact form input[type='button']{
 	float:right;
+	margin-bottom:50px;
 	padding:10px 40px;
 	background:#0099cc;
 	color:#FFFFFF;
