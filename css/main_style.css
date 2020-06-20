@@ -393,6 +393,7 @@ form.example::after {
 	}
 }
 .lx-home-buttons{
+	float:right;
 	margin-top:30px;
 }
 .lx-home-buttons a{
