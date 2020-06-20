@@ -121,9 +121,6 @@ form.example::after {
 }
 
 /* Main Menu*/
-.lx-home-content{
-	margin-top{15%}
-}
 .lx-main-menu{
 	position:fixed;
 	z-index:9;
