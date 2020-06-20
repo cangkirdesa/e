@@ -118,8 +118,8 @@ li.recent-posts:last-child{border-bottom:0;}
 li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration:underline}
 @media(max-width:768px){
 	.lx-copyright{
-		right:auto;
-		left:0px;
+		right:9%;
+		left:9%;
 	}
 }
 .lx-copyright p{
