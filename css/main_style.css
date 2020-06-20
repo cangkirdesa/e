@@ -110,6 +110,12 @@ form.example::after {
 	bottom:0px;
 	padding:10px;
 }
+/* Blog */
+ul#recent-posts{list-style:none;margin:20px 0;padding:0}
+li.recent-posts{display:block;clear:both;overflow:hidden;list-style:none;border-bottom:1px solid #e3e3e3;word-break:break-word;padding:5px 5px;margin:0;white-space: nowrap;height:35px;text-overflow:ellipsis;line-height:20px;}
+li.recent-posts::before{content:'\f02c';font-family:FontAwesome;padding-right:0.7em;}
+li.recent-posts:last-child{border-bottom:0;}
+li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration:underline}
 @media(max-width:768px){
 	.lx-copyright{
 		right:auto;
