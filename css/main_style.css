@@ -68,41 +68,7 @@ Here is the content of this css file
 	background:#121212;
 	color:#FFFFFF;
 }
-/* Search Box */
-form.example input[type=text] {
-  padding:10px;
-  font-size:17px;
-  float:left;
-  width:85%;
-  background:rgba(0,0,0,0.2);
-  color:#999;
-  border:1px solid #333;
-  border-right:none;
-}
 
-form.example button {
-  float:left;
-  width:15%;
-  padding:10px;
-  background:rgba(0,0,0,0.4);
-  color:#777;
-  font-size:17px;
-  border-left:none;
-  border-right:1px solid #333;
-  border-top:1px solid #333;
-  border-bottom:1px solid #333;
-  cursor:pointer;
-}
-
-form.example button:hover {
-  background:#222;
-}
-
-form.example::after {
-  content:"";
-  clear:both;
-  display:table;
-}
 /* Copyright */
 .lx-copyright{
 	position:absolute;
@@ -112,9 +78,8 @@ form.example::after {
 }
 @media(max-width:768px){
 	.lx-copyright{
-		right:9%;
-		left:9%;
-		text-align:center;
+		right:auto;
+		left:0px;
 	}
 }
 .lx-copyright p{
@@ -181,7 +146,7 @@ form.example::after {
 	top:0px;
 	margin-top:30px;
 	-webkit-transition: all 0.3s;
-	transition: all 0.3s;
+	transition: all 0.3s;	
 }
 
 .lx-main-menu ul li a{
@@ -637,9 +602,10 @@ form.example::after {
 
 /* Resume */
 .lx-resume-item{
-	margin-top:20px;
+	margin-top:60px;
 }
 .lx-resume-item > h4{
+	margin-bottom:40px;
 	font-size:24px;
 	font-family:'Abel';
 	text-transform:uppercase;
@@ -651,7 +617,7 @@ form.example::after {
 	border-left:1px solid #EEEEEE;
 }
 .lx-resume-item ul li{
-	margin-bottom:15px;
+	margin-bottom:50px;
 }
 .lx-resume-item ul li:last-child{
 	margin-bottom:0px;
@@ -1039,7 +1005,7 @@ li.recent-posts a:hover {
 /* Contact Boxes */
 .lx-box-contact{
 	position:relative;
-	margin-bottom:70px;
+	margin-top:60px;
 	margin-right:10px;
 	overflow:hidden;
 }
@@ -1073,11 +1039,14 @@ li.recent-posts a:hover {
 }
 
 /* Contact Form */
+.lx-contact form{
+	margin-top:60px;
+}
 .lx-contact form h4{
 	font-size:20px;
 }
 .lx-contact form p{
-	margin:20px 0px 15px;
+	margin:20px 0px 60px;
 }
 .lx-contact-saved > div{
 	margin-bottom:20px;
