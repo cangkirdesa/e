@@ -643,10 +643,9 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 
 /* Resume */
 .lx-resume-item{
-	margin-top:60px;
+	margin-top:20px;
 }
 .lx-resume-item > h4{
-	margin-bottom:40px;
 	font-size:24px;
 	font-family:'Abel';
 	text-transform:uppercase;
@@ -658,7 +657,7 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 	border-left:1px solid #EEEEEE;
 }
 .lx-resume-item ul li{
-	margin-bottom:50px;
+	margin-bottom:15px;
 }
 .lx-resume-item ul li:last-child{
 	margin-bottom:0px;
