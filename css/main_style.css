@@ -958,14 +958,11 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 }
 
 /* Contact Form */
-.lx-contact form{
-	margin-top:60px;
-}
 .lx-contact form h4{
 	font-size:20px;
 }
 .lx-contact form p{
-	margin:20px 0px 60px;
+	margin:20px 0px 15px;
 }
 .lx-contact-saved > div{
 	margin-bottom:20px;
