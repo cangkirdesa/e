@@ -924,7 +924,7 @@ li.recent-posts a{color:#444;}li.recent-posts a:hover{color:#444;text-decoration
 /* Contact Boxes */
 .lx-box-contact{
 	position:relative;
-	margin-top:60px;
+	margin-bottom:70px;
 	margin-right:10px;
 	overflow:hidden;
 }
