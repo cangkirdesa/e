@@ -510,7 +510,7 @@ form.example::after {
 	margin-bottom:5px;
 }
 .lx-knowme-content > p{
-	margin-top:60px;
+	margin-top:30px;
 	margin-bottom:50px;
 }
 .lx-knowme-img{
@@ -533,7 +533,7 @@ form.example::after {
 
 /* Quote */
 .lx-quote{
-	margin-top:60px;
+	margin-top:25px;
 	padding:25px;
 	background:#FBFBFB;
 	border-left:10px solid #0099cc;
@@ -557,10 +557,10 @@ form.example::after {
 
 /* Skills */
 .lx-skills-item{
-	margin-top:60px;
+	margin-top:30px;
 }
 .lx-skills-item > h4{
-	margin-bottom:40px;
+	margin-bottom:10px;
 	font-size:24px;
 	font-family:'Abel';
 	text-transform:uppercase;
@@ -636,7 +636,7 @@ form.example::after {
 
 /* Resume */
 .lx-resume-item{
-	margin-top:60px;
+	margin-top:20px;
 }
 .lx-resume-item > h4{
 	margin-bottom:40px;
@@ -651,7 +651,7 @@ form.example::after {
 	border-left:1px solid #EEEEEE;
 }
 .lx-resume-item ul li{
-	margin-bottom:50px;
+	margin-bottom:30px;
 }
 .lx-resume-item ul li:last-child{
 	margin-bottom:0px;
@@ -683,7 +683,7 @@ form.example::after {
 /* Projects */
 .lx-projects-item{
 	position:relative;
-	margin-top:60px;
+	margin-top:30px;
 }
 .lx-projects-item > i{
 	position:absolute;
@@ -735,7 +735,7 @@ form.example::after {
 
 /* Blog */
 .lx-blog-item{
-	margin-top:60px;
+	margin-top:30px;
 }
 .lx-blog-img{
 	position:relative;
@@ -767,7 +767,7 @@ form.example::after {
 	color:#BEBEBE;
 }
 .lx-blog-load-more{
-	margin-top:60px;
+	margin-top:30px;
 	text-align:center;
 }
 .lx-blog-load-more a{
@@ -1039,7 +1039,7 @@ li.recent-posts a:hover {
 /* Contact Boxes */
 .lx-box-contact{
 	position:relative;
-	margin-top:60px;
+	margin-top:30px;
 	margin-right:10px;
 	overflow:hidden;
 }
@@ -1074,7 +1074,7 @@ li.recent-posts a:hover {
 
 /* Contact Form */
 .lx-contact form{
-	margin-top:60px;
+	margin-top:30px;
 }
 .lx-contact form h4{
 	font-size:20px;
