@@ -112,8 +112,9 @@ form.example::after {
 }
 @media(max-width:768px){
 	.lx-copyright{
-		right:auto;
-		left:0px;
+		right:9%;
+		left:9%;
+		text-align:center;
 	}
 }
 .lx-copyright p{
